@@ -1,2 +1,2 @@
 # README
-file readme nnày chưa biết viết gì
+file readme nnày chưa biết viết gì nhé
