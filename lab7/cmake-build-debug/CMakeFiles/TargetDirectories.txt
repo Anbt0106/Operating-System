@@ -1,0 +1,3 @@
+E:/HUS_22001534/OS/code/lab7/cmake-build-debug/CMakeFiles/lab7.dir
+E:/HUS_22001534/OS/code/lab7/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/HUS_22001534/OS/code/lab7/cmake-build-debug/CMakeFiles/rebuild_cache.dir

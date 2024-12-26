@@ -1,0 +1,3 @@
+E:/HUS_22001534/Operating System/Code/OneDrive_2024-05-07/Input code/cmake-build-debug/CMakeFiles/Input_code.dir
+E:/HUS_22001534/Operating System/Code/OneDrive_2024-05-07/Input code/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/HUS_22001534/Operating System/Code/OneDrive_2024-05-07/Input code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
